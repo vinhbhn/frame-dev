@@ -1,0 +1,11 @@
+{
+  "CUSTOM_TYPES": {
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "HackathonStruct": {
+      "Username": "Vec<u8>",
+      "Agree": "bool"
+    }
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944"
+}
